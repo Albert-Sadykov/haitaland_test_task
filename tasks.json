@@ -1,0 +1,11 @@
+[
+    {
+        "task_id": 2,
+        "title": "Выучить джаву",
+        "description": "выучить джаву",
+        "category": "обучение",
+        "due_date": "2024-12-31",
+        "priority": "средний",
+        "completed": true
+    }
+]
